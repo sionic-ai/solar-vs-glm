@@ -1,0 +1,57 @@
+{
+  "vocab_size_A": 196608,
+  "vocab_size_B": 151329,
+  "vocab_diff": 45279,
+  "b_tokens_found_in_a": 80339,
+  "b_tokens_found_in_a_ratio": 0.5308896510252497,
+  "b_tokens_same_or_close_id": 150,
+  "most_common_position_diffs": [
+    [
+      4096,
+      262
+    ],
+    [
+      4092,
+      9
+    ],
+    [
+      4327,
+      8
+    ],
+    [
+      4246,
+      8
+    ],
+    [
+      4093,
+      7
+    ],
+    [
+      4116,
+      7
+    ],
+    [
+      4094,
+      7
+    ],
+    [
+      4236,
+      7
+    ],
+    [
+      4149,
+      7
+    ],
+    [
+      4533,
+      7
+    ]
+  ],
+  "merges_len_A": 192256,
+  "merges_len_B": 318088,
+  "merges_intersection": 76729,
+  "merges_b_in_a": 76729,
+  "merges_b_in_a_ratio": 0.24121941098060914,
+  "first_1000_merges_exact_match": 0,
+  "first_1000_merges_exact_match_ratio": 0.0
+}

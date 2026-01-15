@@ -1,0 +1,96 @@
+{
+  "A_fingerprint": {
+    "model_id": "upstage/Solar-Open-100B",
+    "tokenizer_model_type": "BPE",
+    "vocab_size": 196608,
+    "merges_len": 192256,
+    "merges_sha256_first1000": "62de77e6bb0614205c5189432b894dcbfe3ed16ddd44138ac2e1907866ac4cd4",
+    "merges_sha256_all": "dccc7b6f63a8c316b7f0d64a40be27a81f04cc04380f33d438cb80228efeecdc"
+  },
+  "B_fingerprint": {
+    "model_id": "zai-org/GLM-4.5-Air",
+    "tokenizer_model_type": "BPE",
+    "vocab_size": 151329,
+    "merges_len": 318088,
+    "merges_sha256_first1000": "c7d04ac94b408f61b28c617ac225806b8dcfdbbd387a9b4fbfcee82cb5907410",
+    "merges_sha256_all": "3944381b497e3b97c1dc4dffdd23b478cf93cb8e4ea7bce8cb71749f39688cec"
+  },
+  "token_set_overlap": {
+    "intersection": 80339,
+    "union": 267598,
+    "jaccard": 0.30022272214291584,
+    "overlap_vs_smaller": 0.5308896510252497
+  },
+  "same_id_exact_matches": {
+    "matches": 1,
+    "denom": 151329,
+    "ratio": 6.608118734677425e-06
+  },
+  "ascii_offset_histogram_top10": [
+    {
+      "offset": -4096,
+      "count": 97
+    },
+    {
+      "offset": -4100,
+      "count": 5
+    },
+    {
+      "offset": -4139,
+      "count": 5
+    },
+    {
+      "offset": -4327,
+      "count": 5
+    },
+    {
+      "offset": -5087,
+      "count": 5
+    },
+    {
+      "offset": -9978,
+      "count": 5
+    },
+    {
+      "offset": -39788,
+      "count": 5
+    },
+    {
+      "offset": -40038,
+      "count": 5
+    },
+    {
+      "offset": -4092,
+      "count": 4
+    },
+    {
+      "offset": -4101,
+      "count": 4
+    }
+  ],
+  "best_ascii_offset": -4096,
+  "best_offset_longest_contiguous_run": {
+    "run_len": 256,
+    "run_start_in_A": 4096,
+    "sample_tokens_A": [
+      "!",
+      "\"",
+      "#",
+      "$",
+      "%",
+      "&",
+      "'",
+      "("
+    ],
+    "sample_tokens_B": [
+      "!",
+      "\"",
+      "#",
+      "$",
+      "%",
+      "&",
+      "'",
+      "("
+    ]
+  }
+}

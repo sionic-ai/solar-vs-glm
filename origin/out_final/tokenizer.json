@@ -1,0 +1,53 @@
+{
+  "vocab_A": 196608,
+  "vocab_B": 151329,
+  "vocab_diff": 45279,
+  "common_tokens": 80339,
+  "common_ratio": 0.5308896510252497,
+  "top_shifts": [
+    {
+      "shift": 4096,
+      "count": 262
+    },
+    {
+      "shift": 4092,
+      "count": 9
+    },
+    {
+      "shift": 4327,
+      "count": 8
+    },
+    {
+      "shift": 4246,
+      "count": 8
+    },
+    {
+      "shift": 4094,
+      "count": 7
+    },
+    {
+      "shift": 4236,
+      "count": 7
+    },
+    {
+      "shift": 4116,
+      "count": 7
+    },
+    {
+      "shift": 4093,
+      "count": 7
+    },
+    {
+      "shift": 4149,
+      "count": 7
+    },
+    {
+      "shift": 13188,
+      "count": 7
+    }
+  ],
+  "merges_A": 192256,
+  "merges_B": 318088,
+  "merges_common": 76729,
+  "merges_B_in_A_ratio": 0.24121941098060914
+}

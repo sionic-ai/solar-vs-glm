@@ -1,0 +1,13 @@
+{
+  "matched_layers": {
+    "cosine_mean": 0.967563021593768,
+    "cosine_std": 0.11366539705807478,
+    "centered_cosine_mean": 0.25833745997153074,
+    "centered_cosine_std": 0.8987188281362728,
+    "pearson_mean": 0.005364894078280266
+  },
+  "control_mismatched": {
+    "cosine_mean": 0.9453038980096433,
+    "centered_cosine_mean": 0.5699287523142516
+  }
+}

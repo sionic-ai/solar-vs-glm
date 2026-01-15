@@ -1,0 +1,312 @@
+{
+  "num_tokens": 200,
+  "mean_cosine": 0.0020437953698506754,
+  "std_cosine": 0.01508188698402475,
+  "min_cosine": -0.046945675655906606,
+  "max_cosine": 0.040876412102270394,
+  "baseline_mean": 0.008929138210850873,
+  "high_similarity_count": 0,
+  "low_similarity_count": 200,
+  "sample_results": [
+    {
+      "token": "ĠĠ",
+      "solar_id": 4353,
+      "glm_id": 256,
+      "cosine": -0.010471198290110156
+    },
+    {
+      "token": "ĠĠĠĠ",
+      "solar_id": 4381,
+      "glm_id": 257,
+      "cosine": 0.01998154098448311
+    },
+    {
+      "token": "in",
+      "solar_id": 4354,
+      "glm_id": 258,
+      "cosine": -0.007084377017713132
+    },
+    {
+      "token": "Ġt",
+      "solar_id": 4352,
+      "glm_id": 259,
+      "cosine": -0.012014638208307197
+    },
+    {
+      "token": "ĠĠĠĠĠĠĠĠ",
+      "solar_id": 4466,
+      "glm_id": 260,
+      "cosine": 0.008212344584925044
+    },
+    {
+      "token": "er",
+      "solar_id": 4359,
+      "glm_id": 261,
+      "cosine": -0.0067897823598238915
+    },
+    {
+      "token": "ĠĠĠ",
+      "solar_id": 4435,
+      "glm_id": 262,
+      "cosine": -0.008570815375200736
+    },
+    {
+      "token": "on",
+      "solar_id": 4358,
+      "glm_id": 263,
+      "cosine": -0.0062485566022919565
+    },
+    {
+      "token": "Ġa",
+      "solar_id": 4355,
+      "glm_id": 264,
+      "cosine": 0.009613727789318056
+    },
+    {
+      "token": "re",
+      "solar_id": 4357,
+      "glm_id": 265,
+      "cosine": 0.009858893727300842
+    },
+    {
+      "token": "at",
+      "solar_id": 4362,
+      "glm_id": 266,
+      "cosine": -0.004569799056864786
+    },
+    {
+      "token": "st",
+      "solar_id": 4412,
+      "glm_id": 267,
+      "cosine": -0.011375535758346236
+    },
+    {
+      "token": "en",
+      "solar_id": 4366,
+      "glm_id": 268,
+      "cosine": 0.022756482166676226
+    },
+    {
+      "token": "or",
+      "solar_id": 4370,
+      "glm_id": 269,
+      "cosine": 0.02071534839090487
+    },
+    {
+      "token": "Ġth",
+      "solar_id": 4408,
+      "glm_id": 270,
+      "cosine": 0.01476323399475552
+    },
+    {
+      "token": "Ġc",
+      "solar_id": 4364,
+      "glm_id": 272,
+      "cosine": 0.0021313115592770603
+    },
+    {
+      "token": "le",
+      "solar_id": 4389,
+      "glm_id": 273,
+      "cosine": -0.0077257010847987025
+    },
+    {
+      "token": "Ġs",
+      "solar_id": 4363,
+      "glm_id": 274,
+      "cosine": -0.016694770345660255
+    },
+    {
+      "token": "it",
+      "solar_id": 4367,
+      "glm_id": 275,
+      "cosine": 0.019500066430441814
+    },
+    {
+      "token": "an",
+      "solar_id": 4374,
+      "glm_id": 276,
+      "cosine": -0.009111158783621514
+    },
+    {
+      "token": "ar",
+      "solar_id": 4386,
+      "glm_id": 277,
+      "cosine": 0.009459877308831346
+    },
+    {
+      "token": "al",
+      "solar_id": 4371,
+      "glm_id": 278,
+      "cosine": -0.011078450697173677
+    },
+    {
+      "token": "Ġthe",
+      "solar_id": 4360,
+      "glm_id": 279,
+      "cosine": -0.003565357657167387
+    },
+    {
+      "token": "Ġp",
+      "solar_id": 4373,
+      "glm_id": 281,
+      "cosine": 0.012618426724164914
+    },
+    {
+      "token": "Ġf",
+      "solar_id": 4376,
+      "glm_id": 282,
+      "cosine": 0.040375999128425065
+    },
+    {
+      "token": "ou",
+      "solar_id": 4744,
+      "glm_id": 283,
+      "cosine": 0.01804184482976956
+    },
+    {
+      "token": "Ġ=",
+      "solar_id": 4418,
+      "glm_id": 284,
+      "cosine": -0.020374364084414263
+    },
+    {
+      "token": "is",
+      "solar_id": 4368,
+      "glm_id": 285,
+      "cosine": -0.016159992117557462
+    },
+    {
+      "token": "ĠĠĠĠĠĠĠ",
+      "solar_id": 4616,
+      "glm_id": 286,
+      "cosine": -0.022208646176617497
+    },
+    {
+      "token": "ing",
+      "solar_id": 4387,
+      "glm_id": 287,
+      "cosine": 0.010510022603895124
+    },
+    {
+      "token": "es",
+      "solar_id": 4369,
+      "glm_id": 288,
+      "cosine": 0.006783616194317196
+    },
+    {
+      "token": "Ġw",
+      "solar_id": 4378,
+      "glm_id": 289,
+      "cosine": -0.010608091462419054
+    },
+    {
+      "token": "ion",
+      "solar_id": 4377,
+      "glm_id": 290,
+      "cosine": 0.01881030140927307
+    },
+    {
+      "token": "ed",
+      "solar_id": 4379,
+      "glm_id": 291,
+      "cosine": 0.011751870896557624
+    },
+    {
+      "token": "ic",
+      "solar_id": 4392,
+      "glm_id": 292,
+      "cosine": -0.015223253715006022
+    },
+    {
+      "token": "Ġb",
+      "solar_id": 4384,
+      "glm_id": 293,
+      "cosine": 0.016534501105749385
+    },
+    {
+      "token": "Ġd",
+      "solar_id": 4390,
+      "glm_id": 294,
+      "cosine": 0.02576056806684721
+    },
+    {
+      "token": "et",
+      "solar_id": 4406,
+      "glm_id": 295,
+      "cosine": 0.015831648900735688
+    },
+    {
+      "token": "Ġm",
+      "solar_id": 4385,
+      "glm_id": 296,
+      "cosine": -0.009233465993290986
+    },
+    {
+      "token": "Ġo",
+      "solar_id": 4365,
+      "glm_id": 297,
+      "cosine": 0.014003504322838997
+    },
+    {
+      "token": "ro",
+      "solar_id": 4391,
+      "glm_id": 299,
+      "cosine": 0.00254492988502187
+    },
+    {
+      "token": "as",
+      "solar_id": 4401,
+      "glm_id": 300,
+      "cosine": 0.021136046349960642
+    },
+    {
+      "token": "el",
+      "solar_id": 4417,
+      "glm_id": 301,
+      "cosine": 0.0038729839970630463
+    },
+    {
+      "token": "ct",
+      "solar_id": 4396,
+      "glm_id": 302,
+      "cosine": -0.006500983556900477
+    },
+    {
+      "token": "nd",
+      "solar_id": 11337,
+      "glm_id": 303,
+      "cosine": 0.009039042908488561
+    },
+    {
+      "token": "Ġin",
+      "solar_id": 4380,
+      "glm_id": 304,
+      "cosine": 0.01774950251322776
+    },
+    {
+      "token": "Ġh",
+      "solar_id": 4431,
+      "glm_id": 305,
+      "cosine": 0.01646885612644678
+    },
+    {
+      "token": "ent",
+      "solar_id": 4399,
+      "glm_id": 306,
+      "cosine": 0.02743885586004118
+    },
+    {
+      "token": "id",
+      "solar_id": 4436,
+      "glm_id": 307,
+      "cosine": 0.012105215944053905
+    },
+    {
+      "token": "Ġn",
+      "solar_id": 4402,
+      "glm_id": 308,
+      "cosine": -0.015061125166875283
+    }
+  ]
+}

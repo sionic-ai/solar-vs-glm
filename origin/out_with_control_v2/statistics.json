@@ -1,0 +1,42 @@
+{
+  "Solar_vs_GLM": {
+    "norm_pre": {
+      "mean": 0.9487432785656141,
+      "std": 0.15640483572759545,
+      "min": 0.1272473931312561,
+      "max": 0.9942851662635803
+    },
+    "norm_post": {
+      "mean": 0.9863827422909115,
+      "std": 0.025861222825648626,
+      "min": 0.85386061668396,
+      "max": 0.9979522228240967
+    },
+    "router_or_gate": {
+      "mean": 0.0037052943885403995,
+      "std": 0.0023862847612805306,
+      "min": -0.001658841036260128,
+      "max": 0.008158602751791477
+    }
+  },
+  "GLM_vs_Qwen2_CONTROL": {
+    "norm_pre": {
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null
+    },
+    "norm_post": {
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null
+    },
+    "router_or_gate": {
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null
+    }
+  }
+}
